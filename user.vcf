@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 15.2.2//EN
 N:Eades;Kurt;;;
 FN: Kurt Eades 
-ORG:It's a Jeep World;
-TITLE:Founder\nJeep Design and Mechanics Division
-EMAIL;type=INTERNET;type=WORK;type=pref:itsajeepworld@gmail.com
-TEL;type=Cell;type=VOICE:229-881-3596
-item1.ADR;type=WORK;type=pref:;;Top of The Word\nMoab\, Utah
+ORG:CANA;
+TITLE:Senior Logistics Analyst\nBusiness Operations, Program and Project Management
+EMAIL;type=INTERNET;type=WORK;type=pref:keades@canallc.com
+TEL;type=WORK;type=VOICE:229 881 3596
+item1.ADR;type=WORK;type=pref:;;7371 Atlas Walk Way\nGainesville\, Virginia;;;20155
 item1.X-ABADR:sg
-item2.URL;type=pref:itsajeepworld.com
+item2.URL;type=pref:canallc.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
